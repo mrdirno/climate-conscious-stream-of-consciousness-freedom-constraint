@@ -1,0 +1,160 @@
+{
+  "book_id": "climate-conscious-stream-of-consciousness-freedom-constraint",
+  "title": "THE ARBOREAL GARNISH",
+  "tagline": "In a world on fire, the only true freedom is to witness the collapse—and the only constraint is to keep writing about it.",
+  "target_words": 70000,
+  "actual_words": 81047,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Internal as External Landscape",
+    "Witnessing as a Form of Complicity",
+    "The Constraint of Narrative in a Chaotic Climate",
+    "The Freedom of Observational Surrender"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Rain That Never Knows",
+      "words": 3370
+    },
+    {
+      "ch": 2,
+      "title": "A Lung Holding Breath",
+      "words": 3370
+    },
+    {
+      "ch": 3,
+      "title": "The Feverish Exhalation",
+      "words": 3370
+    },
+    {
+      "ch": 4,
+      "title": "The First Archive",
+      "words": 3370
+    },
+    {
+      "ch": 5,
+      "title": "Signal Ghost",
+      "words": 3370
+    },
+    {
+      "ch": 6,
+      "title": "The Kill Fee",
+      "words": 3370
+    },
+    {
+      "ch": 7,
+      "title": "Chaparral Logic",
+      "words": 3370
+    },
+    {
+      "ch": 8,
+      "title": "The Static Witness",
+      "words": 3370
+    },
+    {
+      "ch": 9,
+      "title": "Publisher-Speak",
+      "words": 3370
+    },
+    {
+      "ch": 10,
+      "title": "Atmospheric Pressure",
+      "words": 3370
+    },
+    {
+      "ch": 11,
+      "title": "Verdant Implies a System",
+      "words": 3370
+    },
+    {
+      "ch": 12,
+      "title": "The Pause After the Scream",
+      "words": 3370
+    },
+    {
+      "ch": 13,
+      "title": "Final Chapter",
+      "words": 3370
+    },
+    {
+      "ch": 14,
+      "title": "The Geometry of Ignition",
+      "words": 3370
+    },
+    {
+      "ch": 15,
+      "title": "Necropolis Green",
+      "words": 3370
+    },
+    {
+      "ch": 16,
+      "title": "The Sizzle Into Steam",
+      "words": 3370
+    },
+    {
+      "ch": 17,
+      "title": "A Glorious, Depressing Sentence",
+      "words": 3370
+    },
+    {
+      "ch": 18,
+      "title": "The Expected Outcome",
+      "words": 3370
+    },
+    {
+      "ch": 19,
+      "title": "Hollow, Ringing Clarity",
+      "words": 3370
+    },
+    {
+      "ch": 20,
+      "title": "Active Verb",
+      "words": 3370
+    },
+    {
+      "ch": 21,
+      "title": "A Smudge on the Lens",
+      "words": 3370
+    },
+    {
+      "ch": 22,
+      "title": "The Arboreal Garnish",
+      "words": 3370
+    },
+    {
+      "ch": 23,
+      "title": "A Single, Impossible Point",
+      "words": 3370
+    },
+    {
+      "ch": 24,
+      "title": "What the Land Was Before It Was Named",
+      "words": 3377
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the static figure on the outcrop, witnessing the fire they may have ignited. What is their internal monologue? What constraint do they feel, what freedom do they seek?",
+      "Write Sylvie's side of the phone calls. Craft a chapter that is entirely her dialogue with Mira, or her internal monologue as she manages this 'melancholic witch' of a client, revealing her own constraints within the publishing system.",
+      "Write a 'found document' chapter: the 911 transcript from Mira's call, intercut with the dispatcher's internal thoughts, the bureaucratic constraints of the system, and the environmental data (wind speed, humidity) they are ignoring.",
+      "Write a chapter from the perspective of the chaparral itself—the manzanita, the chamise—as a collective consciousness experiencing the fire. What is the freedom in burning? What is the constraint of roots?"
+    ],
+    "technical": [
+      "Build a 'Climate Consciousness' text generator that uses the novel's prose style (fragmented, sensory, metaphorical) to describe real-time environmental sensor data (air quality, temperature, wind) from a location like Arroyo Seco.",
+      "Create an interactive map of the novel's Los Angeles, layering Mira's internal monologue points (the gas station, the apartment, the canyon pull-out) with historical fire data, watershed maps, and urban development timelines to visualize the 'external internal' landscape."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Virginia Woolf (for stream-of-consciousness interiority)",
+      "Joan Didion (for Californian atmospheric dread and social observation)",
+      "J.G. Ballard (for the psychological fusion of character and collapsing environment)",
+      "Annie Dillard (for the poetic, relentless attention to the natural world as a spiritual constraint)"
+    ]
+  },
+  "cover_prompt": "A single, ancient tree stands resilient yet consumed, its bark etched not with rings but with the dense, frantic script of a handwritten manuscript, the words seeming to bleed sap and smoke, [Detailed Scene & Context: set within a vast, scorched landscape where distant forests are skeletal silhouettes against an ochre sky, the air thick with floating embers that glow like dying stars, the ground a cracked mosaic of earth and ash, creating a haunting externalization of internal climate despair], [Artistic Style & Medium: in the atmospheric and textured style of Zdzisław Beksiński meets the ecological detail of Thomas Cole, rendered as a hyper-detailed matte painting with traditional ink wash textures and subtle impasto], [Composition & Camera: book cover framing, a centered and monumental composition looking up at the tree as a lone witness, a dramatic low-angle shot that emphasizes its towering, tragic grandeur against the collapsing world], [Lighting & Color Palette: dramatic chiaroscuro lighting from the unseen fire, casting deep, long shadows and illuminating the scripted bark in a ghostly pallor, a color palette of ashen greys, smoldering oranges, deep umbers, and sickly chlorophyll greens], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
