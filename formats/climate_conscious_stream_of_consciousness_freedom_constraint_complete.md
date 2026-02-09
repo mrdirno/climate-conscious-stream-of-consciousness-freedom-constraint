@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The rain in Los Angeles never knows what it is. It isn’t the soft, forgiving mist of a place that remembers how to be wet. It’s a frantic, greasy spatter, a mechanical afterthought from a sky the colour of a forgotten bruise. It hits the hot asphalt of the 110 and sizzles into steam, a ghost of water rising to haunt the smog. Inside the car, a 1989 Volvo 240 wagon the colour of dried blood, the wipers beat a frantic, uneven tattoo. *Thwock-squeak. Thwock-squeak.* One of them was loose.
@@ -85,6 +87,8 @@ She started the car again and drove towards her apartment, the fire’s glow in 
 The first verb had been *ignite.*
 The second was *observe.*
 She was driving towards the third.
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -198,6 +202,8 @@ She pulled the page from the typewriter. It wasn’t a chapter for Riverhead. It
 The sirens still droned in the distance. The third verb, she realized, was *conceal*.
 Or maybe it was *connect*.
 She couldn’t tell yet. The smoke was still too thick.
+
+# Chapter 3
 
 ## CHAPTER 3
 
