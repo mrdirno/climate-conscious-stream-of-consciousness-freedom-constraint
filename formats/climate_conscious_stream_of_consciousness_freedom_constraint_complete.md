@@ -2,7 +2,9 @@
 
 ## CHAPTER 1
 
-The rain in Los Angeles never knows what it is. It isn’t the soft, forgiving mist of a place that remembers how to be wet. It’s a frantic, greasy spatter, a mechanical afterthought from a sky the colour of a forgotten bruise. It hits the hot asphalt of the 110 and sizzles into steam, a ghost of water rising to haunt the smog. Inside the car, a 1989 Volvo 240 wagon the colour of dried blood, the wipers beat a frantic, uneven tattoo. *Thwock-squeak. Thwock-squeak.* One of them was loose.
+Kai’s breath was a metronome. In, out. In, out. The helmet’s visor displayed the count: 2,347 cycles remaining before the suit’s carbon scrubbers choked. Outside, the hab-dome’s atmospheric shield shimmered, a soap bubble holding back the permanent ochre haze. His thoughts, usually a frantic river of protocols and permissions, had narrowed to this single, sanctioned rhythm. The only freedom left was counting.
+
+
 
 Mira drove with her left wrist draped over the wheel, her right hand out the window, palm up, collecting the contradictory rain. The air coming in was warm and tasted of diesel and wet concrete. Her phone, plugged into the cassette adapter, was mid-ramble. A woman’s voice, crisp and frayed at the edges like a starched linen napkin used too many times.
 
